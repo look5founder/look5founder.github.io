@@ -32,6 +32,8 @@ Tags must be short, relevant, one-word descriptions and may not contain slurs, h
 
 Use Report in good faith for another user’s eligible public review. A report creates a non-public evidence snapshot and does not automatically remove the original content. Do not submit knowingly false, retaliatory, or repetitive reports.
 
+Use Report profile content when a public username, bio, or public tag violates these Guidelines. Use Block when you do not want to see an account’s eligible attributed content. Do not use alternate accounts to evade a block or enforcement action.
+
 ## Enforcement and appeals
 
 LOOK5 may reject, hide, or remove content; dismiss or resolve reports; restrict a feature; suspend or terminate an account; preserve evidence; and contact authorities when appropriate.

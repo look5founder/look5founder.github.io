@@ -42,9 +42,11 @@ LOOK5 may use internally marked controlled accounts and interactions to test or 
 
 ## Reports and enforcement
 
-An authenticated user may report another user’s eligible public review. Reporting does not automatically remove content. LOOK5 may review reports, preserve evidence, reject, hide or remove content, restrict features, suspend or terminate accounts, and contact appropriate authorities when reasonably necessary.
+An authenticated user may report another user’s eligible public review or public profile content. Reporting does not automatically remove content. LOOK5 may review reports, preserve evidence, reject, hide or remove content, restrict features, suspend or terminate accounts, and contact appropriate authorities when reasonably necessary.
 
 LOOK5 may act without advance notice when immediate action is needed for safety, security, legal compliance, or evidence preservation. Appeals may be sent to [look5founder@gmail.com](mailto:look5founder@gmail.com).
+
+Blocking changes the blocker’s experience only. It does not delete the other account’s content, notify the blocked account, affect what uninvolved people can see, or determine a moderation violation.
 
 ## Account deletion
 

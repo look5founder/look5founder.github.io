@@ -43,7 +43,13 @@ If an interaction is private:
 
 An authenticated user may report another user’s eligible public review. A report may retain the reporter and reported-account identifiers, look identifier, a snapshot of the reported username, review text, rating and review-update time, status, and action timestamps.
 
-The snapshot is non-public moderation evidence. It may remain after the public review is edited, removed, made private, or affected by account deletion. Reporting does not automatically remove content.
+An authenticated user may also report public profile content. That report may retain the reported username, bio, public tags, relevant identifiers, status, actions, and audit timestamps.
+
+These snapshots are non-public moderation evidence. They may remain after the live content is edited, removed, made private, hidden, or affected by account deletion. Reporting does not automatically remove content.
+
+## Blocking
+
+Blocking is directional. It hides the blocked account’s eligible public reviews, Latest Activity, and public-profile activity from the blocker. It does not notify the blocked account, delete underlying content, or change what uninvolved people can see. Global unattributed aggregates may remain unchanged.
 
 ## Controlled seed/test data
 
@@ -65,13 +71,11 @@ LOOK5 uses information to:
 
 ## Analytics, advertising, and TestFlight
 
-The current app does not include a dedicated advertising or third-party analytics SDK and does not record which external-source buttons are opened. Core product records contain timestamps needed to operate the service.
+The current app does not include a dedicated advertising or third-party analytics SDK. When you open a verified external catalog source, LOOK5 records a limited first-party event containing the source or collection identifier, destination domain, app build, screen, timestamp, and—if you are signed in—your account identifier. It does not store the full destination URL, review text, tags, email address, advertising identifier, or device fingerprint in this event. Core product records also contain timestamps needed to operate the service.
 
 During TestFlight, Apple may collect and provide LOOK5 with crash, usage, device, and feedback information under Apple’s TestFlight privacy terms.
 
 LOOK5 does not sell personal information, share it for cross-context behavioral advertising, use it for targeted advertising, include an advertising SDK, or use it for cross-app tracking in v0.1.0.
-
-If LOOK5 later begins first-party source-click analytics, this Policy and the App Store privacy information will be updated before the changed collection is represented as active.
 
 ## Service providers and external sites
 
@@ -102,6 +106,7 @@ You may:
 - select public or private visibility for each interaction;
 - change or remove interaction fields;
 - clear an interaction from active product data;
+- manage blocked accounts in Profile → Settings → Blocked accounts;
 - delete your account in Profile → Settings → Delete account; and
 - email [look5founder@gmail.com](mailto:look5founder@gmail.com) for support or an applicable access, correction, deletion, or privacy request.
 

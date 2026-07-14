@@ -20,6 +20,14 @@ For immediate danger or suspected criminal activity, contact local emergency ser
 
 Use Report beside another user’s eligible public review. A report does not automatically remove content; it creates a non-public moderation record.
 
+## Report profile content
+
+Use Report profile content on a public profile when its username, bio, or public tags violate the Community Guidelines.
+
+## Manage blocked accounts
+
+Open Profile → Settings → Blocked accounts to review blocked usernames or unblock an account.
+
 ## Delete an account
 
 Open Profile → Settings → Delete account. Successful deletion is permanent and signs you out. Contact Support if the in-app flow fails.
