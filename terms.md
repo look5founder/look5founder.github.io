@@ -4,7 +4,7 @@ title: Terms of Use
 permalink: /terms/
 ---
 
-Effective: July 13, 2026
+Effective: July 15, 2026
 
 These Terms govern use of LOOK5, which is operated by Nicolas Conry. By creating an account or using an account-linked feature, you agree to these Terms and the [Community Guidelines](/community-guidelines/).
 
@@ -12,7 +12,7 @@ These Terms govern use of LOOK5, which is operated by Nicolas Conry. By creating
 
 LOOK5 lets people browse fashion collection metadata and external viewing sources and interact with individual runway looks through ratings, reviews, tags, and favorites. LOOK5 may provide community aggregates and eligible public activity derived from look-level interactions.
 
-LOOK5 is in beta. Features, catalog coverage, and availability may change, and external sources may become unavailable.
+Features, catalog coverage, and availability may change, and external sources may become unavailable.
 
 ## Eligibility and accounts
 
@@ -36,9 +36,9 @@ The license ends when content is deleted from active use, except for copies reas
 
 You represent that you have the rights needed to submit your content and that it complies with the Community Guidelines.
 
-## Controlled beta content
+## Controlled test content
 
-LOOK5 may use internally marked controlled accounts and interactions to test or populate beta surfaces. Controlled content may appear in activity or aggregates but is not evidence of independent real-user adoption.
+LOOK5 may use internally marked controlled accounts and interactions to test or populate product surfaces. Controlled content may appear in activity or aggregates but is not evidence of independent real-user adoption.
 
 ## Reports and enforcement
 

@@ -4,9 +4,9 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-Effective: July 13, 2026
+Effective: July 15, 2026
 
-LOOK5 is operated by Nicolas Conry. This Policy explains how LOOK5 handles information in its mobile app, beta program, support services, and related public pages.
+LOOK5 is operated by Nicolas Conry. This Policy explains how LOOK5 handles information in its mobile app, service, support channels, and related public pages.
 
 ## Information LOOK5 collects
 
@@ -53,7 +53,7 @@ Blocking is directional. It hides the blocked account’s eligible public review
 
 ## Controlled seed/test data
 
-The beta may contain internally controlled seed/test accounts and interactions so features can be tested with meaningful content. Seed ratings, reviews, tags, favorites, and activity may appear on product surfaces or contribute to aggregates under the same visibility rules. Controlled data is internally marked and separable from real-user data. It is not evidence of independent user adoption.
+LOOK5 may contain internally controlled seed/test accounts and interactions so features can be tested with meaningful content. Seed ratings, reviews, tags, favorites, and activity may appear on product surfaces or contribute to aggregates under the same visibility rules. Controlled data is internally marked and separable from real-user data. It is not evidence of independent user adoption.
 
 ## How information is used
 
@@ -71,7 +71,7 @@ LOOK5 uses information to:
 
 ## Analytics, advertising, and TestFlight
 
-The current app does not include a dedicated advertising or third-party analytics SDK. When you open a verified external catalog source, LOOK5 records a limited first-party event containing the source or collection identifier, destination domain, app build, screen, timestamp, and—if you are signed in—your account identifier. It does not store the full destination URL, review text, tags, email address, advertising identifier, or device fingerprint in this event. Core product records also contain timestamps needed to operate the service.
+The current app does not include an advertising SDK, cross-app tracking, or a dedicated third-party analytics SDK. When you open a verified external catalog source, LOOK5 records a limited first-party event containing the source or collection identifier, destination domain, app build, screen, timestamp, and—if you are signed in—your account identifier. It does not store the full destination URL, review text, tags, email address, advertising identifier, or device fingerprint in this event. Core product records also contain timestamps needed to operate the service.
 
 During TestFlight, Apple may collect and provide LOOK5 with crash, usage, device, and feedback information under Apple’s TestFlight privacy terms.
 
